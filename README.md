@@ -15,7 +15,6 @@ Built as part of a backend engineering assessment.
 - JWT Authentication
 - bcrypt
 - dotenv
-
 ---
 
 ## Features
