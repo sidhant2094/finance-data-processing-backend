@@ -53,7 +53,6 @@ Built as part of a backend engineering assessment.
   - type
   - category
   - date range
-
 ---
 
 ## Dashboard APIs
@@ -106,11 +105,11 @@ Routes → Middleware → Controllers → Services → Models → Database
 ```
 
 ### Layers
-- **Routes** → define API endpoints
-- **Middleware** → authentication, RBAC, validation, error handling
-- **Controllers** → handle HTTP request/response lifecycle
-- **Services** → contain business logic and database query orchestration
-- **Models** → Mongoose schemas and data constraints
+- **Routes** → define API endpoints.
+- **Middleware** → authentication, RBAC, validation, error handling.
+- **Controllers** → handle HTTP request/response lifecycle.
+- **Services** → contain business logic and database query orchestration.
+- **Models** → Mongoose schemas and data constraints.
 
 This separation improves maintainability, scalability, and testability.
 
